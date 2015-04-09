@@ -1,6 +1,6 @@
-package com.charting.line.impl;
+package com.charting.function.impl;
 
-import com.charting.line.Function;
+import com.charting.function.Function;
 
 public class Square implements Function{
 
